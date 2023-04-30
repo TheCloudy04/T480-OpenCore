@@ -10,7 +10,7 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>1.2.2
+   <strong>Version: </strong>OpenCore 0.9.1 Release
    <br />
    <a href="https://github.com/valnoxy/t480-oc/releases"><strong>Download now »</strong></a>
    <br />
